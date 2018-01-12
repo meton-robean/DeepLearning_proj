@@ -1,3 +1,11 @@
+
+Playing Wechat Jump Game with End-to-End Convolutional Neural Networks. Using normal image processing method to collect training set
+0adb_test_in_MI5 : 测试通过ADB方式控制安卓手机
+1wechat_jump_end_to_end_train : 通过运行训练集收集目录下的wechat_jump_auto.py 可以获得截图+按键时间的监督训练集。 然后train.py可以训练神经网络
+2wechat_jmup_e2e_play: python run_android.py 直接使用训练好的模型开始游戏 
+
+
+---------------------------------------
 Prerequisite
 pytorch
 
