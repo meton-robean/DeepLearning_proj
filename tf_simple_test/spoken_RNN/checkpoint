@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cmt/coding_tests/DL_test/tf_simple_test/spoken_RNN/tflearn.lstm.model"
+all_model_checkpoint_paths: "/home/cmt/coding_tests/DL_test/tf_simple_test/spoken_RNN/tflearn.lstm.model"
