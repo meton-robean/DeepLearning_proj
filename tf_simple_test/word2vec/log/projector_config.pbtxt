@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embeddings/Variable:0"
+  metadata_path: "/home/cmt/coding_tests/DL_test/tf_simple_test/word2vec/log/metadata.tsv"
+}
